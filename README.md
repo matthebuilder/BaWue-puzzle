@@ -8,6 +8,6 @@ Frame split into 4 parts for printbed fit. Export sliceable frame stl from frame
 
 ## Dependencies
 * OpenSCAD version >= 2019.05
-* Uses ![Dovetail](https://github.com/hugokernel/OpenSCAD_Dovetail/blob/master/example.png?raw=true)
+* Uses ![Dovetail](https://github.com/hugokernel/OpenSCAD_Dovetail)
 
 
