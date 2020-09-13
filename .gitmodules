@@ -1,0 +1,3 @@
+[submodule "OpenSCAD_Dovetail"]
+	path = OpenSCAD_Dovetail
+	url = https://github.com/hugokernel/OpenSCAD_Dovetail

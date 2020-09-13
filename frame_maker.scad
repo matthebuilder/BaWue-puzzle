@@ -161,7 +161,7 @@ module bottom2 () {
     }
 }
 
-use </home/walzer/Pictures/BaWue-puzzle/OpenSCAD_Dovetail-master/dovetail.scad>;
+use <./OpenSCAD_Dovetail/dovetail.scad>;
 Teeth_count = 10; 
 Teeth_height = 12; 
 Teeth_clearance = 3;
